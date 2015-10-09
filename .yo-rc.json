@@ -1,0 +1,15 @@
+{
+  "generator-xh": {
+    "config": {
+      "projectName": "testproj",
+      "useBranding": true,
+      "extension": "h",
+      "reloader": "BrowserSync",
+      "proxy": "localhost",
+      "cssPreprocessor": "LIBSASS",
+      "ignoreDist": true,
+      "isWP": false,
+      "features": []
+    }
+  }
+}
